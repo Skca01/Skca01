@@ -36,4 +36,4 @@ I'm passionate about software development and building innovative solutions that
 
 ---
 
-*Building innovative IoT solutions, one project at a time* ⚡
+*Turning ideas into code, one commit at a time* 💻
