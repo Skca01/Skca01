@@ -23,6 +23,10 @@ I'm passionate about software development and building innovative solutions that
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=Espressif&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
+## 📊 GitHub Language Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skca01&layout=compact&theme=github_dark)
+
 ## 🚀 Goals for 2025
 - Contribute to open source projects
 - Build full-stack applications  
